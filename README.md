@@ -4,7 +4,7 @@ Convert manpages to HTML documents.
 
 ## Usage
 
-`man2html` takes the name of a manpage as an argument, so you do not need to specify the manroff file directly.
+`man2html` takes the name of a manpage as an argument, so you don't need to specify the manpage by its path.
 
 ```
 $ man2html ls
